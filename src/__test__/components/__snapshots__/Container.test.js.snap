@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Container Coincide el Snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="photo-container"
+  >
+    <div
+      class="loader"
+      data-testid="loader"
+    />
+  </div>
+</DocumentFragment>
+`;
